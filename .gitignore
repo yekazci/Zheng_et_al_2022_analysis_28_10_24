@@ -1,14 +1,28 @@
-# Ignore specific folders
-R_Objects/
-Python_Objects/
+# Ignore everything by default
+*
 
-# Ignore a specific file
+# Allow specific file types
+!.gitignore
+!*.ipynb
+!*.config
+!*.py
+!*.R
+!*.r
+!*.sh
+!*.Rmd
+!*.rmd
 
+# Allow directories (required to traverse folders and add files selectively)
+!*/
 
-# Ignore all files with a certain extension (e.g., `.log` files)
-
-# Ignore the .ipynb_checkpoints folder (specific to Jupyter notebooks)
+# Ignore all .ipynb_checkpoints folders
 .ipynb_checkpoints/
+
+
 
 # ignore powerpoints
 *.pptx
+
+# Ignore specific folders
+R_Objects/
+Python_Objects/
