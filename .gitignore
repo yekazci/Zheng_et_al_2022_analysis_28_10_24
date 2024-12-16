@@ -26,3 +26,4 @@
 # Ignore specific folders
 R_Objects/
 Python_Objects/
+temp/
