@@ -14,6 +14,6 @@
 #SBATCH --chdir=./                # Set the working directory to the current, which is default.
 
 
-python bash_scripts/scvi_batch_integration.py
+python python_scripts/scvi_batch_integration.py
 
 echo "completed."
