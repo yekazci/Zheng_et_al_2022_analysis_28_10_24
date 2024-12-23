@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Submit this script inside parent folder of python_scripts.
+
 # SLURM directives:
 
 #SBATCH -J scvi-integrate
