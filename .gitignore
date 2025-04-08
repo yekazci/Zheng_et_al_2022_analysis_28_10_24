@@ -24,7 +24,7 @@
 
 # ignore the full version of the following notebook. It was added to github repo as two separate ntebooks.
 
-PART_4B_Comprehensive_preprocessing_of_scRNA_data.ipynb
+PART_4B_FULL_Comprehensive_preprocessing_of_scRNA_data.ipynb
 
 # Ignore specific folders
 r_objects/
