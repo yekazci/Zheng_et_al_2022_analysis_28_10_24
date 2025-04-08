@@ -19,11 +19,10 @@
 .ipynb_checkpoints/
 
 
-
 # ignore powerpoints
 *.pptx
 
 # Ignore specific folders
-R_Objects/
-Python_Objects/
+r_objects/
+python_objects/
 temp/
